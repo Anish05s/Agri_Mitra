@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ans_rice_blast_01",
+    "crop": "rice",
+    "category": "disease",
+    "keywords": ["rice", "blast", "paddy", "leaf", "spindle", "spots", "fungus", "jhulsa"],
+    "question": {
+      "en": "How do I control Blast disease in paddy/rice?",
+      "hi": "धान में झुलसा (ब्लास्ट) रोग का नियंत्रण कैसे करें?",
+      "bn": "ধানে ব্লাস্ট রোগ কীভাবে নিয়ন্ত্রণ করব?"
+    },
+    "answer": {
+      "en": "Rice Blast shows spindle-shaped brown lesions with gray centers. Spray Tricyclazole 75% WP @ 0.6g per litre of water or Kasugamycin 3% SL @ 2.5ml/L at early symptom appearance. Avoid excessive nitrogen fertilizer and maintain thin water layer.",
+      "hi": "धान के झुलसा रोग में नाव के आकार के धब्बे बनते हैं। ट्राइसाइक्लाजोल 75% डब्लूपी 0.6 ग्राम प्रति लीटर पानी में मिलाकर छिड़काव करें। यूरिया का अत्यधिक उपयोग न करें।",
+      "bn": "ধানের ব্লাস্ট রোগে নৌকার মতো বাদামী দাগ দেখা যায়। প্রতি লিটার জলে ট্রাইসাইক্লাজোল ৭৫% ডব্লিউপি ০.৬ গ্রাম বা কাসুগামাইসিন ২.৫ মিলি গুলে স্প্রে করুন। অতিরিক্ত ইউরিয়া দেবেন না।"
+    },
+    "source": "ICAR-CRRI Cuttack",
+    "verifiedBy": "Dr. S. K. Nayak, Principal Scientist",
+    "lastUpdated": "2024-09-20",
+    "confidence": 0.94
+  },
+  {
+    "id": "ans_rice_stem_borer_02",
+    "crop": "rice",
+    "category": "pest",
+    "keywords": ["rice", "paddy", "stem borer", "dead heart", "white earhead", "keeda", "majra"],
+    "question": {
+      "en": "How to control yellow stem borer in rice?",
+      "hi": "धान में तना छेदक (तना छेदक कीट) को कैसे रोकें?",
+      "bn": "ধানের মাজরা পোকা কীভাবে দমন করব?"
+    },
+    "answer": {
+      "en": "For stem borer (causing dead heart at vegetative stage and white earhead at panicle stage), apply Chlorantraniliprole 0.4% G @ 4kg/acre or spray Cartap Hydrochloride 50% SP @ 2g/litre of water. Install pheromone traps @ 8 traps/acre.",
+      "hi": "धान में तना छेदक के लिए क्लोरेंट्रानिलिप्रोल 0.4% जी 4 किग्रा प्रति एकड़ डालें या कार्टाप हाइड्रोक्लोराइड 50% एसपी 2 ग्राम प्रति लीटर पानी में छिड़कें। फेरोमोन ट्रैप लगाएं।",
+      "bn": "ধানের মাজরা পোকা দমনে ক্লোরানট্রানিলিপ্রোল ০.৪% জি ৪ কেজি প্রতি একরে প্রয়োগ করুন অথবা কার্টাপ হাইড্রোক্লোরাইড ৫০% এসপি ২ গ্রাম প্রতি লিটার জলে স্প্রে করুন। ফেরোমোন ফাঁদ লাগান।"
+    },
+    "source": "KVK Murshidabad & ICAR-CRRI",
+    "verifiedBy": "Dr. Amitav Ghosh, SMS Entomology",
+    "lastUpdated": "2024-10-01",
+    "confidence": 0.92
+  },
+  {
+    "id": "ans_potato_late_blight_03",
+    "crop": "potato",
+    "category": "disease",
+    "keywords": ["potato", "late blight", "blight", "water soaked", "black leaves", "aaloo", "jhulsa"],
+    "question": {
+      "en": "How to treat Late Blight disease in potatoes?",
+      "hi": "आलू में पछेती झुलसा (लेट ब्लाइट) रोग का इलाज कैसे करें?",
+      "bn": "আলুর নাভি ধসা (লেট ব্লাইট) রোগের প্রতিকার কী?"
+    },
+    "answer": {
+      "en": "Late Blight appears with water-soaked dark lesions and white fungal growth on undersides in humid, cool weather. Preventive: Spray Mancozeb 75% WP @ 2.5g/L. Curative: Spray Cymoxanil 8% + Mancozeb 64% WP @ 3g/L or Metalaxyl 8% + Mancozeb 64% @ 2.5g/L.",
+      "hi": "पछेती झुलसा के लिए मौसम नम होने पर मैंकोजेब 75% डब्लूपी 2.5 ग्राम/लीटर का छिड़काव करें। संक्रमण दिखने पर साइमोक्सानिल 8% + मैंकोजेब 64% 3 ग्राम/लीटर का छिड़काव करें।",
+      "bn": "লেট ব্লাইট বা নাভি ধসা রোগের জন্য ম্যানকোজেব ৭৫% ডব্লিউপি ২.৫ গ্রাম/লিটার জলে স্প্রে করুন। রোগ আক্রমণ করলে সাইমোক্সানিল ৮% + ম্যানকোজেব ৬৪% ৩ গ্রাম/লিটার স্প্রে করুন।"
+    },
+    "source": "ICAR-CPRI Shimla",
+    "verifiedBy": "Dr. B. P. Singh, Director ICAR-CPRI",
+    "lastUpdated": "2024-10-10",
+    "confidence": 0.95
+  },
+  {
+    "id": "ans_potato_fertilizer_04",
+    "crop": "potato",
+    "category": "irrigation",
+    "keywords": ["potato", "fertilizer", "npk", "urea", "dap", "potash", "aaloo", "khad"],
+    "question": {
+      "en": "What is the fertilizer schedule for potato crop?",
+      "hi": "आलू की फसल में खाद और उर्वरक का सही अनुपात क्या है?",
+      "bn": "আলু চাষে সারের সঠিক মাত্রা ও প্রয়োগের নিয়ম কী?"
+    },
+    "answer": {
+      "en": "Apply N:P:K @ 150:100:120 kg/ha. Apply all Phosphorus, Potash, and half Nitrogen at planting time as basal dose. Top-dress remaining Nitrogen during earthing up at 30-35 days after planting.",
+      "hi": "आलू के लिए प्रति हेक्टेयर एन:पी:के 150:100:120 किग्रा दें। फॉस्फोरस, पोटाश व आधी नाइट्रोजन बुवाई के समय दें। शेष नाइट्रोजन 30-35 दिन बाद मिट्टी चढ़ाते समय दें।",
+      "bn": "হেক্টর প্রতি এন:পি:কে ১৫০:১০০:১২০ কেজি প্রয়োগ করুন। সমস্ত ফসফেট ও পটাশ এবং অর্ধেক নাইট্রোজেন রোপণের সময় বেসাল হিসেবে দিন। বাকি নাইট্রোজেন ৩০-৩৫ দিনে মাটি তোলার সময় দিন।"
+    },
+    "source": "BCKV Kalyani",
+    "verifiedBy": "Prof. R. C. Das, Agronomy Dept",
+    "lastUpdated": "2024-08-15",
+    "confidence": 0.89
+  },
+  {
+    "id": "ans_jute_stem_rot_05",
+    "crop": "jute",
+    "category": "disease",
+    "keywords": ["jute", "stem rot", "sclerotium", "pat", "paat", "gora pocha"],
+    "question": {
+      "en": "How do I prevent and control Stem Rot in jute?",
+      "hi": "पटसन (जूट) में तना सड़न रोग का प्रबंधन कैसे करें?",
+      "bn": "পাটের কাণ্ড পচা রোগ কীভাবে রোধ করব?"
+    },
+    "answer": {
+      "en": "Stem rot (Macrophomina phaseolina) causes brown spots on stems and lodging. Treat seeds with Carbendazim 50% WP @ 2g/kg before sowing. If symptoms appear in standing crop, spray Carbendazim 1g/L or Mancozeb 2.5g/L water.",
+      "hi": "जूट के तना सड़न में कार्बेन्डाजिम 50% डब्लूपी 2 ग्राम/किग्रा बीज उपचार करें। खड़ी फसल में लक्षण दिखने पर कार्बेन्डाजिम 1 ग्राम प्रति लीटर पानी का छिड़काव करें। जल निकासी का ध्यान रखें।",
+      "bn": "পাটের কাণ্ড পচা রোধে কার্বেন্ডাজিম ৫০% ডব্লিউপি ২ গ্রাম প্রতি কেজি বীজে শোধন করুন। গাছে রোগ দেখা দিলে কার্বেন্ডাজিম ১ গ্রাম অথবা ম্যানকোজেব ২.৫ গ্রাম প্রতি লিটার জলে গুলে স্প্রে করুন।"
+    },
+    "source": "ICAR-CRIJAF Barrackpore",
+    "verifiedBy": "Dr. Gouranga Kar, Director ICAR-CRIJAF",
+    "lastUpdated": "2024-09-05",
+    "confidence": 0.91
+  },
+  {
+    "id": "ans_jute_retting_06",
+    "crop": "jute",
+    "category": "general",
+    "keywords": ["jute", "retting", "ribbon", "criajaf sona", "fiber", "pat pachano"],
+    "question": {
+      "en": "How to improve jute fibre retting and quality?",
+      "hi": "पटसन की सड़ाई (रेट्टिंग) और रेशे की गुणवत्ता में सुधार कैसे करें?",
+      "bn": "উন্নত মানের পাট পচানোর জন্য ক্রাইজাফ সোনা কীভাবে ব্যবহার করব?"
+    },
+    "answer": {
+      "en": "Use microbial retting formulation 'CRIJAF Sona' @ 4-5 kg per bigha. It accelerates retting by 6-7 days, reduces water requirement, and improves fiber brightness and grade to TD-3/TD-4.",
+      "hi": "पटसन सड़ाई के लिए 'क्राइजाफ सोना' माइक्रोबियल पाउडर का उपयोग करें। यह सड़ाई का समय 6-7 दिन कम करता है तथा रेशे की चमक व गुणवत्ता बढ़ाता है।",
+      "bn": "পাট পচানোর জন্য 'ক্রাইজাফ সোনা' পাউডার বিঘা প্রতি ৪-৫ কেজি ব্যবহার করুন। এতে পাট ৬-৭ দিন আগে পচে এবং আঁশের রঙ সোনালী ও মান উন্নত (টিডি-৩/৪) হয়।"
+    },
+    "source": "ICAR-CRIJAF Barrackpore",
+    "verifiedBy": "Dr. B. Majumdar, Head Crop Production",
+    "lastUpdated": "2024-09-12",
+    "confidence": 0.93
+  }
+]

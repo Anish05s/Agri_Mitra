@@ -1,0 +1,70 @@
+name: agri_mitra
+description: Hybrid online+offline farmer advisory system for small and marginal farmers.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # State management
+  provider: ^6.1.1
+
+  # Local database
+  sqflite: ^2.3.0
+  path: ^1.9.0
+
+  # Shared preferences (consent, settings)
+  shared_preferences: ^2.2.2
+
+  # HTTP client for mock cloud calls
+  http: ^1.1.0
+
+  # Speech To Text
+  speech_to_text: ^6.6.0
+
+  # Text To Speech
+  flutter_tts: ^3.8.5
+
+  # Image picker for photo diagnosis
+  image_picker: ^1.0.7
+
+  # Connectivity
+  connectivity_plus: ^5.0.2
+
+  # JSON serialization
+  json_annotation: ^4.8.1
+
+  # Lottie for animations
+  lottie: ^3.0.0
+
+  # Permission handler
+  permission_handler: ^11.3.0
+
+  # Intl for formatting
+  intl: ^0.20.3
+
+  # UUID for query IDs
+  uuid: ^4.3.3
+  sqflite_common_ffi_web: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.7
+  json_serializable: ^6.7.1
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/data/
+    - assets/images/
+    - assets/lottie/

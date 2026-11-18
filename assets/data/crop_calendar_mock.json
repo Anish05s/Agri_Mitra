@@ -1,0 +1,308 @@
+[
+  {
+    "id": "rice_kharif",
+    "crop": "rice",
+    "season": "Kharif (Aman)",
+    "title": {
+      "en": "Kharif Paddy (Aman Rice)",
+      "hi": "खरीफ धान (अमन चावल)",
+      "bn": "খরিফ ধান (আমন ধান)"
+    },
+    "stages": [
+      {
+        "stageId": "land_preparation",
+        "name": {
+          "en": "Land Preparation",
+          "hi": "खेत की तैयारी",
+          "bn": "জমি প্রস্তুতি"
+        },
+        "period": "May - June",
+        "months": [5, 6],
+        "advice": {
+          "en": "Deep summer ploughing followed by 2-3 harrowings. Incorporate 8-10 tons/ha well-decomposed FYM or compost. Form strong bunds to conserve monsoon rainwater.",
+          "hi": "गर्मियों में गहरी जुताई के बाद 2-3 बार हैरो चलाएं। 8-10 टन/हेक्टेयर सड़ी हुई गोबर खाद मिलाएं। वर्षा जल संरक्षण के लिए मजबूत मेड़ बनाएं।",
+          "bn": "গ্রীষ্মকালীন গভীর চাষের পর ২-৩ বার মই দিন। হেক্টর প্রতি ৮-১০ টন পচা গোবর সার মেশান। বৃষ্টির জল ধরে রাখতে শক্ত আল বাঁধুন।"
+        }
+      },
+      {
+        "stageId": "seed_treatment",
+        "name": {
+          "en": "Seed Treatment",
+          "hi": "बीज उपचार",
+          "bn": "বীজ শোধন"
+        },
+        "period": "June",
+        "months": [6],
+        "advice": {
+          "en": "Soak seeds in carbendazim 2g/kg seed or Trichoderma viride 5-10g/kg seed in water for 24 hours to prevent seed-borne blast and sheath rot.",
+          "hi": "बीज जनित ब्लास्ट और शीथ रॉट की रोकथाम के लिए कार्बेन्डाजिम 2 ग्राम/किलो या ट्राइकोडर्मा विरिडी 5-10 ग्राम/किलो के घोल में 24 घंटे बीज भिगोएं।",
+          "bn": "বীজবাহিত ব্লাস্ট ও শীথ পচা রোধে কার্বেনডাজিম ২ গ্রাম/কেজি অথবা ট্রাইকোডার্মা ভিরিডি ৫-১০ গ্রাম/কেজি হারে ২৪ ঘণ্টা জলে ভিজিয়ে বীজ শোধন করুন।"
+        }
+      },
+      {
+        "stageId": "sowing_transplanting",
+        "name": {
+          "en": "Sowing & Transplanting",
+          "hi": "बुवाई एवं रोपाई",
+          "bn": "বীজবপন ও চারা রোপণ"
+        },
+        "period": "June - July",
+        "months": [6, 7],
+        "advice": {
+          "en": "Sow nursery in June. Transplant 21-25 days old seedlings at 20x15 cm spacing with 2-3 seedlings per hill in puddle-leveled main field.",
+          "hi": "जून में नर्सरी तैयार करें। 21-25 दिन पुराने पौधे 20x15 सेमी की दूरी पर प्रति हिल 2-3 पौधे लेव लगे खेत में लगाएं।",
+          "bn": "জুন মাসে বীজতলা তৈরি করুন। ২১-২৫ দিনের চারা ২০x১৫ সেমি দূরত্বে প্রতি গোছায় ২-৩টি করে কাদা করা জমিতে রোপণ করুন।"
+        }
+      },
+      {
+        "stageId": "fertilizer_application",
+        "name": {
+          "en": "Fertilizer Application",
+          "hi": "उर्वरक प्रबंधन",
+          "bn": "সার প্রয়োগ"
+        },
+        "period": "July - August",
+        "months": [7, 8],
+        "advice": {
+          "en": "Apply N:P:K @ 80:40:40 kg/ha. Apply full P, K, and 25% N as basal. Top-dress remaining N in two equal splits at active tillering and panicle initiation.",
+          "hi": "N:P:K @ 80:40:40 किग्रा/हेक्टेयर डालें। पूरा फास्फोरस, पोटाश और 25% नाइट्रोजन बुवाई/रोपाई पर दें। शेष नाइट्रोजन कल्ले फूटते समय और बाली निकलते समय दो बराबर भागों में दें।",
+          "bn": "N:P:K ৮০:৪০:৪০ কেজি/হেক্টর প্রয়োগ করুন। পুরো ফসফেট, পটাশ এবং ২৫% নাইট্রোজেন মূল সার হিসেবে দিন। বাকি নাইট্রোজেন কুশি আসার সময় ও থোড় আসার সময় দুই কিস্তিতে উপরিপ্রয়োগ করুন।"
+        }
+      },
+      {
+        "stageId": "pest_scouting",
+        "name": {
+          "en": "Pest & Disease Scouting",
+          "hi": "कीट एवं रोग निगरानी",
+          "bn": "পোকামাকড় ও রোগবালাই পর্যবেক্ষণ"
+        },
+        "period": "August - October",
+        "months": [8, 9, 10],
+        "advice": {
+          "en": "Inspect weekly for Stem Borer (dead heart/white ear) and BPH. Spray Cartap Hydrochloride 50% SP @ 2g/L or Buprofezin 25% SC @ 1ml/L if threshold exceeded.",
+          "hi": "तना छेदक (डेड हार्ट) और भूरे फुदके की साप्ताहिक जांच करें। ईटीएल स्तर पार होने पर कार्टाप हाइड्रोक्लोराइड 50% SP 2 ग्राम/ली या बुप्रोफेजिन 25% SC 1 मिली/ली छिड़कें।",
+          "bn": "মাজরা পোকা (মরা ডিগ/সাদা শিষ) ও বাদামি গাছফড়িংয়ের জন্য প্রতি সপ্তাহে মাঠ পরিদর্শন করুন। আক্রমণ বাড়লে কার্টাপ হাইড্রোক্লোরাইড ৫০% এসপি ২ গ্রাম/লি বা বুপ্রোফেজিন ২৫% এসসি ১ মিলি/লি ছিটান।"
+        }
+      },
+      {
+        "stageId": "harvesting",
+        "name": {
+          "en": "Harvesting & Threshing",
+          "hi": "कटाई एवं मड़ाई",
+          "bn": "ফসল কাটা ও মাড়াই"
+        },
+        "period": "November - December",
+        "months": [11, 12],
+        "advice": {
+          "en": "Harvest when 80-85% grains turn golden yellow. Drain field 7-10 days before harvest. Dry harvested grains to 12-14% moisture before safe storage.",
+          "hi": "जब 80-85% दाने सुनहरे पीले हो जाएं तो कटाई करें। कटाई से 7-10 दिन पहले खेत का पानी निकाल दें। सुरक्षित भंडारण के लिए दानों को 12-14% नमी तक सुखाएं।",
+          "bn": "৮০-৮৫% শিষ সোনালী বর্ণ ধারণ করলে ধান কেটে নিন। কাটার ৭-১০ দিন আগে মাঠের জল নিষ্কাশন করুন। সংরক্ষণের পূর্বে দানার আর্দ্রতা ১২-১৪% এ নামিয়ে আনুন।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "potato_rabi",
+    "crop": "potato",
+    "season": "Rabi",
+    "title": {
+      "en": "Rabi Potato",
+      "hi": "रबी आलू",
+      "bn": "রবি আলু"
+    },
+    "stages": [
+      {
+        "stageId": "land_preparation",
+        "name": {
+          "en": "Land Preparation",
+          "hi": "खेत की तैयारी",
+          "bn": "জমি প্রস্তুতি"
+        },
+        "period": "October - November",
+        "months": [10, 11],
+        "advice": {
+          "en": "Plough 4-5 times to achieve fine tilth with loose friable soil. Apply 20-25 tons/ha well-rotted FYM and incorporate Chlorpyrifos dust against white grub.",
+          "hi": "भुरभुरी मिट्टी के लिए 4-5 बार गहरी जुताई करें। 20-25 टन/हेक्टेयर अच्छी सड़ी गोबर खाद डालें और सफेद लट से बचाव के लिए क्लोरपायरीफॉस डस्ट मिलाएं।",
+          "bn": "মাটি ঝুরঝুরে করতে ৪-৫ বার গভীর চাষ দিন। হেক্টর প্রতি ২০-২৫ টন পচা গোবর সার দিন এবং উইপোকা ও সাদা কীড়া প্রতিরোধে ক্লোরপাইরিফস গুঁড়ো প্রয়োগ করুন।"
+        }
+      },
+      {
+        "stageId": "seed_treatment",
+        "name": {
+          "en": "Seed Tuber Selection & Treatment",
+          "hi": "बीज कंद चयन एवं उपचार",
+          "bn": "বীজ আলু নির্বাচন ও শোধন"
+        },
+        "period": "October - November",
+        "months": [10, 11],
+        "advice": {
+          "en": "Use 30-45g certified sprouted disease-free tubers. Dip tubers in Mancozeb 2.5g/L or Boric acid 3% solution for 20 minutes and shade-dry before planting.",
+          "hi": "30-45 ग्राम वजन के अंकुरित प्रमाणित कंद चुनें। मैंकोजेब 2.5 ग्राम/ली या बोरिक एसिड 3% के घोल में 20 मिनट डुबोएं और छाया में सुखाकर लगाएं।",
+          "bn": "৩০-৪৫ গ্রাম ওজনের ভালো অঙ্কুরিত রোগমুক্ত প্রত্যয়িত বীজ আলু নিন। ম্যানকোজেব ২.৫ গ্রাম/লি বা ৩% বোরিক অ্যাসিড দ্রবণে ২০ মিনিট চুবিয়ে ছায়ায় শুকিয়ে রোপণ করুন।"
+        }
+      },
+      {
+        "stageId": "sowing_transplanting",
+        "name": {
+          "en": "Planting & Ridging",
+          "hi": "बुवाई एवं मेड़ बनाना",
+          "bn": "রোপণ ও ভেলি তৈরি"
+        },
+        "period": "November",
+        "months": [11],
+        "advice": {
+          "en": "Plant sprouted tubers at 60 cm row-to-row and 20 cm plant-to-plant spacing at 5-7 cm depth. Cover immediately with soil to form ridges.",
+          "hi": "अंकुरित कंदों को 60 सेमी कतार से कतार और 20 सेमी पौधे से पौधे की दूरी पर 5-7 सेमी गहराई पर बोएं। तुरंत मिट्टी चढ़ाकर मेड़ बनाएं।",
+          "bn": "অঙ্কুরিত বীজ আলু ৬০ সেমি সারি থেকে সারি এবং ২০ সেমি দূরত্বে ৫-৭ সেমি গভীরতায় রোপণ করুন। সঙ্গে সঙ্গে মাটি তুলে ভেলি তৈরি করুন।"
+        }
+      },
+      {
+        "stageId": "fertilizer_application",
+        "name": {
+          "en": "Fertilizer & Earthing Up",
+          "hi": "उर्वरक एवं मिट्टी चढ़ाना",
+          "bn": "সার প্রয়োগ ও মাটি তোলা"
+        },
+        "period": "December",
+        "months": [12],
+        "advice": {
+          "en": "Apply N:P:K @ 150:100:120 kg/ha. Top-dress remaining 50% nitrogen at 30-35 DAP during first earthing up to prevent tuber greening.",
+          "hi": "N:P:K @ 150:100:120 किग्रा/हेक्टेयर डालें। रोपाई के 30-35 दिन बाद पहली मिट्टी चढ़ाते समय 50% बची हुई नाइट्रोजन डालें ताकि कंद हरे न हों।",
+          "bn": "N:P:K ১৫০:১০০:১২০ কেজি/হেক্টর প্রয়োগ করুন। রোপণের ৩০-৩৫ দিন পর প্রথমবার মাটি তোলার সময় অবশিষ্ট ৫০% নাইট্রোজেন প্রয়োগ করুন যাতে আলু সবুজ না হয়ে যায়।"
+        }
+      },
+      {
+        "stageId": "pest_scouting",
+        "name": {
+          "en": "Late Blight & Aphid Scouting",
+          "hi": "झुलसा एवं एफिड निगरानी",
+          "bn": "নাবি ধসা ও জাব পোকা পর্যবেক্ষণ"
+        },
+        "period": "December - January",
+        "months": [12, 1],
+        "advice": {
+          "en": "Cloudy, foggy weather triggers Late Blight. Prophylactic spray of Mancozeb 75% WP @ 2.5g/L. If disease appears, spray Cymoxanil + Mancozeb @ 2g/L.",
+          "hi": "बादल और कोहरा छाने पर पछेती झुलसा का खतरा बढ़ता है। रोकथाम हेतु मैंकोजेब 75% WP 2.5 ग्राम/ली छिड़कें। लक्षण दिखने पर साइमोक्सानिल + मैंकोजेब 2 ग्राम/ली दें।",
+          "bn": "মেঘলা ও কুয়াশাচ্ছন্ন আবহাওয়ায় নাবি ধসা রোগের বিস্তার ঘটে। আগাম সতর্কতামূলক ম্যানকোজেব ৭৫% ডব্লিউপি ২.৫ গ্রাম/লি ছিটান। লক্ষণ দেখা দিলে সাইমোক্সানিল + ম্যানকোজেব ২ গ্রাম/লি দিন।"
+        }
+      },
+      {
+        "stageId": "harvesting",
+        "name": {
+          "en": "Dehaulming & Harvesting",
+          "hi": "डंठल काटना एवं खुदाई",
+          "bn": "গাছ কাটা ও আলু তোলা"
+        },
+        "period": "February - March",
+        "months": [2, 3],
+        "advice": {
+          "en": "Cut vines (dehaulm) 10-12 days before harvest to harden skin. Stop irrigation 10 days before digging. Cure harvested tubers in shade for 10-15 days.",
+          "hi": "छिलका सख्त करने के लिए खुदाई से 10-12 दिन पहले डंठल काट दें। खुदाई से 10 दिन पहले पानी बंद करें। कंदों को 10-15 दिन छाया में सुखाकर रखें।",
+          "bn": "আলুর ত্বক শক্ত করতে তোলার ১০-১২ দিন আগে গাছের গোড়া কেটে ফেলুন। তোলার ১০ দিন আগে সেচ বন্ধ করুন। তোলার পর ১০-১৫ দিন ছায়াযুক্ত স্থানে শুকিয়ে নিন।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jute_kharif",
+    "crop": "jute",
+    "season": "Pre-Kharif / Kharif",
+    "title": {
+      "en": "Pre-Kharif Jute (Pat)",
+      "hi": "प्री-खरीफ जूट (पटसन)",
+      "bn": "প্রাক-খরিফ পাট (তোষা/সাদা)"
+    },
+    "stages": [
+      {
+        "stageId": "land_preparation",
+        "name": {
+          "en": "Land Preparation",
+          "hi": "खेत की तैयारी",
+          "bn": "জমি প্রস্তুতি"
+        },
+        "period": "March - April",
+        "months": [3, 4],
+        "advice": {
+          "en": "Plough 4-6 times to create fine, clod-free soil bed. Apply 5-7 tons/ha compost. Soil pH should ideally be 6.0-7.5. Apply agricultural lime if soil is acidic.",
+          "hi": "बारीक और ढेले-रहित खेत के लिए 4-6 बार जुताई करें। 5-7 टन/हेक्टेयर खाद डालें। मिट्टी का पीएच 6.0-7.5 होना चाहिए। अम्लीय मिट्टी में चूना मिलाएं।",
+          "bn": "মাটি একদম মিহি ও ঢেলামুক্ত করতে ৪-৬ বার চাষ ও মই দিন। হেক্টর প্রতি ৫-৭ টন গোবর বা কম্পোস্ট দিন। মাটির পিএইচ ৬.০-৭.৫ রাখুন। অম্ল মাটি হলে চুন প্রয়োগ করুন।"
+        }
+      },
+      {
+        "stageId": "seed_treatment",
+        "name": {
+          "en": "Seed Treatment",
+          "hi": "बीज उपचार",
+          "bn": "বীজ শোধন"
+        },
+        "period": "April",
+        "months": [4],
+        "advice": {
+          "en": "Treat seeds with Carbendazim 2g/kg or Mancozeb 3g/kg seed to protect against stem rot, seedling blight, and collar rot pathogens.",
+          "hi": "तना सड़न और जड़ गलन रोगों से बचाव के लिए बीजों को कार्बेन्डाजिम 2 ग्राम/किग्रा या मैंकोजेब 3 ग्राम/किग्रा से उपचारित करें।",
+          "bn": "কান্ড পচা ও গোড়া পচা রোগ প্রতিরোধের জন্য কার্বেনডাজিম ২ গ্রাম/কেজি অথবা ম্যানকোজেব ৩ গ্রাম/কেজি হারে বীজ শোধন করুন।"
+        }
+      },
+      {
+        "stageId": "sowing_transplanting",
+        "name": {
+          "en": "Line Sowing",
+          "hi": "कतार में बुवाई",
+          "bn": "সারিতে বীজ বপন"
+        },
+        "period": "April - May",
+        "months": [4, 5],
+        "advice": {
+          "en": "Line sow Tossa jute (JRO-524) @ 5-6 kg/ha at 20-25 cm row spacing and 5-7 cm plant spacing using seed drill at 2-3 cm depth in moist soil.",
+          "hi": "तोशा जूट (JRO-524) की कतार बुवाई 5-6 किग्रा/हेक्टेयर की दर से 20-25 सेमी कतार दूरी और 2-3 सेमी गहराई पर पर्याप्त नमी में करें।",
+          "bn": "তোষা পাট (JRO-524) হেক্টর প্রতি ৫-৬ কেজি বীজ ২০-২৫ সেমি সারির দূরত্বে ও ২-৩ সেমি গভীরতায় পর্যাপ্ত আর্দ্র মাটিতে বীজবপন যন্ত্র দিয়ে বপন করুন।"
+        }
+      },
+      {
+        "stageId": "fertilizer_application",
+        "name": {
+          "en": "Weeding & Fertilizer Top-Dressing",
+          "hi": "निराई-गुड़ाई एवं उर्वरक",
+          "bn": "নিড়ানি ও সার উপরিপ্রয়োগ"
+        },
+        "period": "May - June",
+        "months": [5, 6],
+        "advice": {
+          "en": "Apply N:P:K @ 60:30:30 kg/ha for Tossa. Perform first weeding and thinning at 15-20 DAS, second weeding at 35 DAS with urea top dressing @ 10-15 kg N/ha.",
+          "hi": "तोशा जूट के लिए N:P:K @ 60:30:30 किग्रा/हे. दें। 15-20 दिन बाद पहली निराई और छंटाई करें। 35 दिन बाद दूसरी निराई के साथ यूरिया का छिड़काव करें।",
+          "bn": "তোষা পাটে N:P:K ৬০:৩০:৩০ কেজি/হেক্টর দিন। ১৫-২০ দিনে প্রথম নিড়ানি ও চারা পাতলা করুন এবং ৩৫ দিনে দ্বিতীয় নিড়ানির সাথে ১০-১৫ কেজি নাইট্রোজেন উপরিপ্রয়োগ করুন।"
+        }
+      },
+      {
+        "stageId": "pest_scouting",
+        "name": {
+          "en": "Pest Management (Mite & Semilooper)",
+          "hi": "कीट प्रबंधन (माइट एवं सेमीलूपर)",
+          "bn": "কীটপতঙ্গ নিয়ন্ত্রণ (হলুদ মাকড় ও ঘোড়া পোকা)"
+        },
+        "period": "June - July",
+        "months": [6, 7],
+        "advice": {
+          "en": "Inspect for Yellow Mite (leaf curling) and Jute Semilooper. Spray Fenazaquin 10% EC @ 1.5-2 ml/L for mites or Profenophos 50% EC @ 2 ml/L for caterpillar attacks.",
+          "hi": "पीली मकड़ी (पत्तियों का मुड़ना) और सेमीलूपर की जांच करें। मकड़ी हेतु फेनाजाक्विन 10% EC 1.5-2 मिली/ली या इल्ली हेतु प्रोफेनोफॉस 2 मिली/ली छिड़कें।",
+          "bn": "হলুদ মাকড় (পাতা কোঁকড়ানো) এবং পাটের ঘোড়া পোকার জন্য সতর্ক থাকুন। মাকড় দমনে ফেনাজাকুইন ১০% ইসি ১.৫-২ মিলি/লি অথবা পোকার জন্য প্রফেনোফস ২ মিলি/লি ছিটান।"
+        }
+      },
+      {
+        "stageId": "harvesting",
+        "name": {
+          "en": "Harvesting & Retting",
+          "hi": "कटाई एवं सड़न क्रिया (रेट्टिंग)",
+          "bn": "পাট কাটা ও জাগ দেওয়া (রেটিং)"
+        },
+        "period": "July - August",
+        "months": [7, 8],
+        "advice": {
+          "en": "Harvest at 120-135 days (small pod stage) for premium golden fiber. Submerge bundled stems in clean, slow-moving water using CRIJAF Sona microbial consortium.",
+          "hi": "उत्कृष्ट सुनहरे रेशे के लिए 120-135 दिनों (छोटी फली अवस्था) पर कटाई करें। बंडलों को स्वच्छ जल में 'क्रिजैफ सोना' जामन पाउडर के साथ डुबोएं।",
+          "bn": "উন্নত সোনালী আঁশের জন্য ১২০-১৩৫ দিনে (ছোট শুঁটি অবস্থায়) পাট কাটুন। আঁটি বেঁধে পরিষ্কার বহমান জলে 'ক্রিজ্যাফ সোনা' অণুজীব কনসোর্টিয়াম প্রয়োগ করে জাগ দিন।"
+        }
+      }
+    ]
+  }
+]

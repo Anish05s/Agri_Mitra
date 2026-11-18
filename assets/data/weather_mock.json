@@ -1,0 +1,32 @@
+{
+  "location": "Nadia District, West Bengal",
+  "tempCelsius": 28.5,
+  "condition": "Partly Cloudy",
+  "humidity": 72,
+  "windKmh": 14.2,
+  "rainfall": "12mm expected in next 48 hours",
+  "forecast": [
+    {
+      "day": "Today",
+      "high": 31,
+      "low": 24,
+      "condition": "Partly Cloudy"
+    },
+    {
+      "day": "Tomorrow",
+      "high": 29,
+      "low": 23,
+      "condition": "Rainy"
+    },
+    {
+      "day": "Day 3",
+      "high": 27,
+      "low": 22,
+      "condition": "Cloudy"
+    }
+  ],
+  "source": "IMD (India Meteorological Department)",
+  "fetchedAt": "2024-11-12T10:00:00+05:30",
+  "lastSyncedAt": "2024-11-12T10:00:00+05:30",
+  "advisory": "Heavy rain expected. Consider delaying pesticide application. Check drainage channels."
+}
